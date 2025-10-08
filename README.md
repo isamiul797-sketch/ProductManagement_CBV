@@ -24,7 +24,7 @@ This project demonstrates both **Django CBV** and **asynchronous API calls** for
 ---
 
 
-### 1️⃣ Clone this repository
+###  Clone this repository
 
 git clone https://github.com/isamiul797-sketch/ProductManagement_CBV.git
 
