@@ -1,26 +1,28 @@
-#  Product Management (Django CBV)
+#  Product Management (Django CBV + AJAX)
 
-A simple Django project built using **Class-Based Views (CBV)** for managing products.  
-This project demonstrates CRUD (Create, Read, Update, Delete) operations using Django class-based views.
-
----
-
-## 🚀 Features
-- Create, update, delete products
-- View product details
-- List all productst
-- Bootstrap-based responsive UI
-- Organized structure following Django best practices
+A dynamic Django project built with **Class-Based Views (CBV)** and **AJAX (JavaScript)** to manage products seamlessly using APIs.  
+This project demonstrates both **Django CBV** and **asynchronous API calls** for real-time updates — no full-page reloads needed!
 
 ---
 
-##  Tech Stack
-- **Backend:** Django 5+
-- **Frontend:** HTML, CSS, Bootstrap
-- **Database:** SQLite3 (default)
+## Features
+- Full CRUD (Create, Read, Update, Delete) for products  
+- Dynamic data update using **AJAX + Fetch API**  
+- Django Class-Based Views  
+- JSON-based API responses integrated with frontend JS  
+- Responsive Bootstrap UI    
+
+---
+
+## Tech Stack
+- **Backend:** Django 5+ (Class-Based Views)
+- **Frontend:** HTML, CSS, JavaScript (AJAX / Fetch API)
+- **Database:** SQLite3
 - **Language:** Python 3.12+
+- **Styling:** Bootstrap 5
 
 ---
+
 
 ### 1️⃣ Clone this repository
 
